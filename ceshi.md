@@ -1,3 +1,3 @@
 蹄片
-![tupain](./img/1.png)
+![tupain](1.png)
 
